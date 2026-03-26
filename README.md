@@ -17,3 +17,4 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 # sentiment-analysis-app
 sentiment analysis app which predict the text as positive or negative.
+
